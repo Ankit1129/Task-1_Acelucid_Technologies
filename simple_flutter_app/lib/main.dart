@@ -57,7 +57,7 @@ class HomeScreen extends StatelessWidget {
       imageUrl:
           'https://images.unsplash.com/photo-1517336714731-489689fd1ca8',
     ),
-    // Add more products as needed
+
   ];
 
   @override
@@ -154,7 +154,7 @@ class DetailScreen extends StatelessWidget {
                     fontSize: 16,
                   ),
                 ),
-                // Add more details as needed
+                
               ],
             ),
           );
